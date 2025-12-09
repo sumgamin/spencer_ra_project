@@ -1,0 +1,31 @@
+file_path,method,reason,status
+input_mixed_v2/.DS_Store,-,-,skipped_unsupported
+input_mixed_v2/20230817Drawings.png,-,-,processed_image
+input_mixed_v2/20230905CAADRIASteenblik.pdf,xobject,"The pages with images also contain substantial explanatory text and captions integrated closely with the visuals, making it important to extract images separately from the text for clarity and quality. Using xobject allows precise extraction of embedded figures without including surrounding text.",processed_pdf
+input_mixed_v2/20231109ABCSCollaborativeProcess.pdf,page_render,"The pages containing images mainly feature full-page visuals or large graphics with minimal to no text explaining them, making it more efficient to treat each page as one full image rather than extracting individual embedded images.",processed_pdf
+input_mixed_v2/20231109ABCStewart_Page_01.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_02.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_03.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_04.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_05.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_06.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_10.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_11.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_12.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_13.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_14.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_15.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_16.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_17.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_18.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_23.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_24.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_25.png,-,-,processed_image
+input_mixed_v2/20231109ABCStewart_Page_26.png,-,-,processed_image
+input_mixed_v2/94c1dc96-2957-4070-9c9d-4bb5a415068b.jpg,-,-,processed_image
+input_mixed_v2/Graduate AI Expo 2024.pdf,page_render,"The PDF pages contain predominantly image-based content with minimal text, making it more efficient to extract the entire page as a single image rather than isolating individual images. This approach preserves the full visual context of the exhibit and posters shown.",processed_pdf
+input_mixed_v2/IMG_20240302_110248.jpg,-,-,processed_image
+input_mixed_v2/IMG_20240302_110326.jpg,-,-,processed_image
+input_mixed_v2/blocks.png,-,-,processed_image
+input_mixed_v2/page_render_img_embed_input.pdf,page_render,"The images on the analyzed pages show mostly full-page or large multi-person scenes with minimal to no overlaid text, making a full-page render suitable to capture the entire context and details without losing information. Extracting individual images (xobject) would be less effective since the images are the primary content of these pages.",processed_pdf
+input_mixed_v2/trees.png,-,-,processed_image
