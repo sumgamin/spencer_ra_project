@@ -1,0 +1,290 @@
+{
+  "file": "/Users/srikargamini/Downloads/stp_parser_directory/stp_input_files/sample.stp",
+  "summary": {
+    "curve_count": 20634,
+    "point_count": 3,
+    "polysurface_count": 120
+  },
+  "curves": [
+    {
+      "index": 1,
+      "type": "curve",
+      "start": [
+        -11263.0351133972,
+        -178.93757188521,
+        -87.790059337706
+      ],
+      "end": [
+        -11260.3984403324,
+        -180.457026571672,
+        -90.8517462983968
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 20,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        0.0,
+        4.8304326652286
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": false
+    },
+    {
+      "index": 2,
+      "type": "curve",
+      "start": [
+        -11263.0351133972,
+        -178.93757188521,
+        -87.790059337706
+      ],
+      "end": [
+        -11276.4280219996,
+        -202.171219771395,
+        -87.7629741079065
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 5,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        55.7023508902182,
+        56.0527506362358
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": true
+    },
+    {
+      "index": 3,
+      "type": "curve",
+      "start": [
+        -11273.7679331778,
+        -203.704040589508,
+        -90.9021776723105
+      ],
+      "end": [
+        -11276.4280219996,
+        -202.171219771395,
+        -87.7629741079065
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 13,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        14.3786145064343,
+        19.293101414778
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": false
+    },
+    {
+      "index": 4,
+      "type": "curve",
+      "start": [
+        -11260.3984403324,
+        -180.457026571671,
+        -90.8517462983968
+      ],
+      "end": [
+        -11273.7679331778,
+        -203.704040589506,
+        -90.9021776723069
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 4,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        56.0664486831647,
+        56.2950371121567
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": true
+    },
+    {
+      "index": 5,
+      "type": "curve",
+      "start": [
+        -11263.0409327909,
+        -178.932210080497,
+        -94.762140124952
+      ],
+      "end": [
+        -11263.0409327909,
+        -178.932210080497,
+        -94.762140124952
+      ],
+      "subtype": "nurbs",
+      "closed": true,
+      "degree": 3,
+      "rational": false,
+      "control_points": 33,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        -9.58776471778769,
+        9.60419265391133
+      ],
+      "clamped": false,
+      "periodic": true,
+      "smooth": false
+    },
+    {
+      "index": 6,
+      "type": "curve",
+      "start": [
+        -11260.3984403324,
+        -180.457026571672,
+        -90.8517462983968
+      ],
+      "end": [
+        -11263.037783047,
+        -178.934285103675,
+        -93.8626186967903
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 20,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        4.8304326652286,
+        9.62444995204119
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": false
+    },
+    {
+      "index": 7,
+      "type": "curve",
+      "start": [
+        -11263.037783047,
+        -178.934285103675,
+        -93.8626186967903
+      ],
+      "end": [
+        -11265.6602019474,
+        -177.423035922555,
+        -90.848222055048
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 20,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        9.62444995204119,
+        14.4085804309473
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": false
+    },
+    {
+      "index": 8,
+      "type": "curve",
+      "start": [
+        -11265.6602019474,
+        -177.423035922555,
+        -90.848222055048
+      ],
+      "end": [
+        -11263.0351133972,
+        -178.93757188521,
+        -87.790059337706
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 20,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        14.4085804309473,
+        19.2301497742991
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": false
+    },
+    {
+      "index": 9,
+      "type": "curve",
+      "start": [
+        -11276.4344205368,
+        -202.166087126371,
+        -94.72635581196
+      ],
+      "end": [
+        -11276.4344205368,
+        -202.166087126371,
+        -94.72635581196
+      ],
+      "subtype": "nurbs",
+      "closed": true,
+      "degree": 3,
+      "rational": false,
+      "control_points": 33,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        -28.990892964591,
+        -9.69774269715403
+      ],
+      "clamped": false,
+      "periodic": true,
+      "smooth": false
+    },
+    {
+      "index": 10,
+      "type": "curve",
+      "start": [
+        -11276.4280219996,
+        -202.171219771395,
+        -87.7629741079065
+      ],
+      "end": [
+        -11279.0300108442,
+        -200.670590799266,
+        -90.8986532675257
+      ],
+      "subtype": "nurbs",
+      "closed": false,
+      "degree": 3,
+      "rational": false,
+      "control_points": 13,
+      "duplicate_control_points": 0,
+      "knot_type": "non-uniform",
+      "domain": [
+        0.0,
+        4.86502595541403
+      ],
+      "clamped": true,
+      "periodic": false,
+      "smooth": false
+    }
+  ]
+}
