@@ -1,0 +1,3224 @@
+{
+  "file": "/Users/srikargamini/Downloads/3dm_file_parser/3dm_input_files_dir/20230817Update.3dm",
+  "summary": {
+    "layers": [
+      {
+        "index": 0,
+        "name": "Default",
+        "id": "67bfd040-c5c5-4493-9b0e-8061b7d8c488",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Default",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": []
+      },
+      {
+        "index": 1,
+        "name": "Program",
+        "id": "d3d68513-8906-4c61-8c27-18674123e42e",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Program",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": [
+          {
+            "index": 2,
+            "name": "Classroom",
+            "id": "7173a954-412b-4606-b14c-c2bdb579af98",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Classroom",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": [
+              {
+                "index": 3,
+                "name": "Music",
+                "id": "c7c0c758-e611-4cd4-821f-5bdbcb6af2f3",
+                "parent_id": "7173a954-412b-4606-b14c-c2bdb579af98",
+                "fullpath": "Program::Classroom::Music",
+                "material_index": -1,
+                "render_material_index": -1,
+                "children": []
+              },
+              {
+                "index": 4,
+                "name": "Art",
+                "id": "a0c7b305-0934-40bb-91b6-d739cbc95476",
+                "parent_id": "7173a954-412b-4606-b14c-c2bdb579af98",
+                "fullpath": "Program::Classroom::Art",
+                "material_index": -1,
+                "render_material_index": -1,
+                "children": []
+              },
+              {
+                "index": 5,
+                "name": "Computer",
+                "id": "2a00b9ab-d108-439e-857f-35e590cad0d7",
+                "parent_id": "7173a954-412b-4606-b14c-c2bdb579af98",
+                "fullpath": "Program::Classroom::Computer",
+                "material_index": -1,
+                "render_material_index": -1,
+                "children": []
+              },
+              {
+                "index": 6,
+                "name": "Priv. Instr.",
+                "id": "cce15da0-f3ab-4f16-a35a-148e10ba3ba6",
+                "parent_id": "7173a954-412b-4606-b14c-c2bdb579af98",
+                "fullpath": "Program::Classroom::Priv. Instr.",
+                "material_index": -1,
+                "render_material_index": -1,
+                "children": []
+              }
+            ]
+          },
+          {
+            "index": 7,
+            "name": "Library",
+            "id": "a6adc9c5-7df7-4740-a8d5-7ef7545490fe",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Library",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 8,
+            "name": "Lobby",
+            "id": "c96883e2-362f-4335-a61c-8ea92714f43d",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Lobby",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 9,
+            "name": "Front Office",
+            "id": "b3792994-e174-4615-a6e5-94f94b83c2de",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Front Office",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 10,
+            "name": "Nurse",
+            "id": "051183e1-4066-4585-8be4-ba3eb1c51554",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Nurse",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 11,
+            "name": "Teacher Support",
+            "id": "c8ecb887-02b1-486d-83cc-1391a076903c",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Teacher Support",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 12,
+            "name": "Janitor",
+            "id": "07d909c8-f63b-4727-a48f-d7b1507b84f4",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Janitor",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 13,
+            "name": "Gym/Cafeteria",
+            "id": "e05a7449-5def-4ff7-b85b-72bf49802cb6",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Gym/Cafeteria",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 14,
+            "name": "WC",
+            "id": "36ca83ab-3a1a-4d1d-9516-5c34becbf467",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::WC",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 15,
+            "name": "Circulation",
+            "id": "08b09a0f-323c-44e5-9473-6a808416c748",
+            "parent_id": "d3d68513-8906-4c61-8c27-18674123e42e",
+            "fullpath": "Program::Circulation",
+            "material_index": -1,
+            "render_material_index": 81,
+            "children": [
+              {
+                "index": 16,
+                "name": "Primary",
+                "id": "bb877d52-fed8-44ba-8ce0-1d60d83a33fe",
+                "parent_id": "08b09a0f-323c-44e5-9473-6a808416c748",
+                "fullpath": "Program::Circulation::Primary",
+                "material_index": -1,
+                "render_material_index": 54,
+                "children": []
+              },
+              {
+                "index": 17,
+                "name": "Secondary",
+                "id": "34b50da6-0329-42c5-b17c-5fcf41ae3d47",
+                "parent_id": "08b09a0f-323c-44e5-9473-6a808416c748",
+                "fullpath": "Program::Circulation::Secondary",
+                "material_index": -1,
+                "render_material_index": 55,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "name": "Materials",
+        "id": "6d537a58-a82a-433f-a0bf-ae34fd4894e4",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Materials",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": [
+          {
+            "index": 19,
+            "name": "floor",
+            "id": "4134cb4e-195e-4491-9397-f41c22478647",
+            "parent_id": "6d537a58-a82a-433f-a0bf-ae34fd4894e4",
+            "fullpath": "Materials::floor",
+            "material_index": -1,
+            "render_material_index": 2,
+            "children": []
+          },
+          {
+            "index": 20,
+            "name": "floorSolid",
+            "id": "6eff44bb-4dc6-45e7-b928-452134512d69",
+            "parent_id": "6d537a58-a82a-433f-a0bf-ae34fd4894e4",
+            "fullpath": "Materials::floorSolid",
+            "material_index": -1,
+            "render_material_index": 399,
+            "children": []
+          },
+          {
+            "index": 21,
+            "name": "WindowFrames",
+            "id": "fe58bfe0-ad0a-40a6-8fdb-39857cdbe254",
+            "parent_id": "6d537a58-a82a-433f-a0bf-ae34fd4894e4",
+            "fullpath": "Materials::WindowFrames",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 22,
+            "name": "Glass",
+            "id": "23d34606-f309-4ecd-ab53-79d24bea6355",
+            "parent_id": "6d537a58-a82a-433f-a0bf-ae34fd4894e4",
+            "fullpath": "Materials::Glass",
+            "material_index": -1,
+            "render_material_index": 76,
+            "children": []
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "name": "Site",
+        "id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Site",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": [
+          {
+            "index": 24,
+            "name": "tree",
+            "id": "1467d3b0-aa2e-4fc5-923f-8003e9eb528d",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::tree",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 25,
+            "name": "topography",
+            "id": "71389faf-c3f3-4d3b-ab7f-9f49d149672a",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::topography",
+            "material_index": -1,
+            "render_material_index": 1,
+            "children": []
+          },
+          {
+            "index": 26,
+            "name": "treeline",
+            "id": "29acb67c-4bd4-4b8e-b476-a790529ca36c",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::treeline",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 27,
+            "name": "houses",
+            "id": "0897d646-665a-494a-b03c-2b3fab955680",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::houses",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 28,
+            "name": "houseingline",
+            "id": "6169aad9-4644-457f-bdc9-2fbaddbd531f",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::houseingline",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 29,
+            "name": "parking",
+            "id": "485b3122-60e2-4a76-834f-4387d8ffa343",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::parking",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 30,
+            "name": "road02",
+            "id": "51c636ce-5a45-4803-86d6-531173f1592d",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::road02",
+            "material_index": -1,
+            "render_material_index": 0,
+            "children": []
+          },
+          {
+            "index": 31,
+            "name": "road",
+            "id": "b23de2ac-43a4-426d-8d03-b4ea19d14115",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::road",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 32,
+            "name": "Roads",
+            "id": "7b78edaf-7f69-49c4-a01a-d1fc491be2ad",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::Roads",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 33,
+            "name": "dangerous pool",
+            "id": "f01e584d-c3eb-41d8-a4e6-1e293aa3f9b6",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::dangerous pool",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 34,
+            "name": "original school",
+            "id": "de9e18d6-140e-4ff7-9cd7-49dac34d545a",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::original school",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 35,
+            "name": "tree lines",
+            "id": "59efc4dc-5fe2-4e93-b03f-e42ef94b6f6e",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::tree lines",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 36,
+            "name": "siteboundAary",
+            "id": "4e60eb9e-f4b9-4ef8-bcb1-aa38f8eb1242",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::siteboundAary",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          },
+          {
+            "index": 37,
+            "name": "Layer 04",
+            "id": "f0f9b8ca-d1b2-4737-979f-51d4b9d10bcf",
+            "parent_id": "46ecaf6a-be97-4c51-9ee1-c6272615cbf4",
+            "fullpath": "Site::Layer 04",
+            "material_index": -1,
+            "render_material_index": -1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "name": "Ref",
+        "id": "b78fb517-f589-495a-9991-44d05aedd030",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Ref",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": []
+      },
+      {
+        "index": 39,
+        "name": "roof layer 5",
+        "id": "04938b9c-7907-4df5-8cfc-058aa83fa2cd",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "roof layer 5",
+        "material_index": -1,
+        "render_material_index": 77,
+        "children": []
+      },
+      {
+        "index": 40,
+        "name": "wall space for storage",
+        "id": "92d513c9-498d-4541-865e-753feec8bfd0",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "wall space for storage",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": [
+          {
+            "index": 41,
+            "name": "coposite material",
+            "id": "af5a6e64-59dd-47bb-a384-1d12da1a5f15",
+            "parent_id": "92d513c9-498d-4541-865e-753feec8bfd0",
+            "fullpath": "wall space for storage::coposite material",
+            "material_index": -1,
+            "render_material_index": 78,
+            "children": []
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "name": "open webb steel joist",
+        "id": "5c956148-1990-4d4d-80ed-dd9d88b5caf8",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "open webb steel joist",
+        "material_index": -1,
+        "render_material_index": 79,
+        "children": []
+      },
+      {
+        "index": 43,
+        "name": "beams",
+        "id": "dab4d21d-2825-4731-ba0d-877472b177d0",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "beams",
+        "material_index": -1,
+        "render_material_index": 80,
+        "children": []
+      },
+      {
+        "index": 44,
+        "name": "Extrusions - Interior Walls",
+        "id": "460ce7c4-72c2-4109-bc5f-e241352f15aa",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Extrusions - Interior Walls",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": []
+      },
+      {
+        "index": 45,
+        "name": "Extrusions - Wood Screen Walls",
+        "id": "be4d0dc6-7ee2-4787-bf50-2b0e39d4bc75",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Extrusions - Wood Screen Walls",
+        "material_index": -1,
+        "render_material_index": 395,
+        "children": []
+      },
+      {
+        "index": 46,
+        "name": "Furniture/Features",
+        "id": "b600fff6-3c9e-4fc2-9227-0d070535873f",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Furniture/Features",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": [
+          {
+            "index": 47,
+            "name": "wood",
+            "id": "841653fd-75af-452e-9d6a-3742a8bf656d",
+            "parent_id": "b600fff6-3c9e-4fc2-9227-0d070535873f",
+            "fullpath": "Furniture/Features::wood",
+            "material_index": -1,
+            "render_material_index": 396,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "groups": [
+      {
+        "index": 0,
+        "name": "Group08"
+      },
+      {
+        "index": 1,
+        "name": "Group81"
+      },
+      {
+        "index": 2,
+        "name": "Group83"
+      },
+      {
+        "index": 3,
+        "name": "Group86"
+      },
+      {
+        "index": 4,
+        "name": "Group108"
+      },
+      {
+        "index": 5,
+        "name": "Group112"
+      },
+      {
+        "index": 6,
+        "name": "Group113"
+      },
+      {
+        "index": 7,
+        "name": "Group119"
+      },
+      {
+        "index": 8,
+        "name": "Group120"
+      },
+      {
+        "index": 9,
+        "name": "Group126"
+      },
+      {
+        "index": 10,
+        "name": "Group127"
+      },
+      {
+        "index": 11,
+        "name": "Group07"
+      },
+      {
+        "index": 12,
+        "name": "Group12"
+      },
+      {
+        "index": 13,
+        "name": "Group13"
+      },
+      {
+        "index": 14,
+        "name": "Group14"
+      },
+      {
+        "index": 15,
+        "name": "Group15"
+      },
+      {
+        "index": 16,
+        "name": "Group17"
+      },
+      {
+        "index": 17,
+        "name": "Group18"
+      },
+      {
+        "index": 18,
+        "name": "Group20"
+      },
+      {
+        "index": 19,
+        "name": "Group21"
+      },
+      {
+        "index": 20,
+        "name": "Group23"
+      },
+      {
+        "index": 21,
+        "name": "Group24"
+      },
+      {
+        "index": 22,
+        "name": "Group26"
+      },
+      {
+        "index": 23,
+        "name": "Group28"
+      },
+      {
+        "index": 24,
+        "name": "Group29"
+      },
+      {
+        "index": 25,
+        "name": "Group31"
+      },
+      {
+        "index": 26,
+        "name": "Group32"
+      },
+      {
+        "index": 27,
+        "name": "Group33"
+      },
+      {
+        "index": 28,
+        "name": "Group35"
+      },
+      {
+        "index": 29,
+        "name": "Group42"
+      },
+      {
+        "index": 30,
+        "name": "Group44"
+      },
+      {
+        "index": 31,
+        "name": "Group45"
+      },
+      {
+        "index": 32,
+        "name": "Group47"
+      },
+      {
+        "index": 33,
+        "name": "Group49"
+      },
+      {
+        "index": 34,
+        "name": "Group50"
+      },
+      {
+        "index": 35,
+        "name": "Group51"
+      },
+      {
+        "index": 36,
+        "name": "Group53"
+      },
+      {
+        "index": 37,
+        "name": "Group54"
+      },
+      {
+        "index": 38,
+        "name": "Group56"
+      },
+      {
+        "index": 39,
+        "name": "Group57"
+      },
+      {
+        "index": 40,
+        "name": "Group59"
+      },
+      {
+        "index": 41,
+        "name": "Group61"
+      },
+      {
+        "index": 42,
+        "name": "Group63"
+      },
+      {
+        "index": 43,
+        "name": "Group73"
+      },
+      {
+        "index": 44,
+        "name": "Group01"
+      },
+      {
+        "index": 45,
+        "name": "Group02"
+      },
+      {
+        "index": 46,
+        "name": "Group03"
+      },
+      {
+        "index": 47,
+        "name": "Group04"
+      },
+      {
+        "index": 48,
+        "name": "Group05"
+      },
+      {
+        "index": 49,
+        "name": "Group06"
+      },
+      {
+        "index": 50,
+        "name": "Group10"
+      },
+      {
+        "index": 51,
+        "name": "Group16"
+      },
+      {
+        "index": 52,
+        "name": "Group09"
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "Road 10"
+      },
+      {
+        "index": 1,
+        "name": "Grass 03"
+      },
+      {
+        "index": 2,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 3,
+        "name": "Metal (5)"
+      },
+      {
+        "index": 4,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 5,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 6,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 7,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 8,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 9,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 10,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 11,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 12,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 13,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 14,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 15,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 16,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 17,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 18,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 19,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 20,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 21,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 22,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 23,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 24,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 25,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 26,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 27,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 28,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 29,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 30,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 31,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 32,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 33,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 34,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 35,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 36,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 37,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 38,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 39,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 40,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 41,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 42,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 43,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 44,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 45,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 46,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 47,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 48,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 49,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 50,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 51,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 52,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 53,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 54,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 55,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 56,
+        "name": "Metal (5)"
+      },
+      {
+        "index": 57,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 58,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 59,
+        "name": "Metal (1)"
+      },
+      {
+        "index": 60,
+        "name": "Metal (2)"
+      },
+      {
+        "index": 61,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 62,
+        "name": "Metal"
+      },
+      {
+        "index": 63,
+        "name": "Metal"
+      },
+      {
+        "index": 64,
+        "name": "Metal (1)"
+      },
+      {
+        "index": 65,
+        "name": "Metal (2)"
+      },
+      {
+        "index": 66,
+        "name": "Metal (5)"
+      },
+      {
+        "index": 67,
+        "name": "Metal (5)"
+      },
+      {
+        "index": 68,
+        "name": "Metal (5)"
+      },
+      {
+        "index": 69,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 70,
+        "name": "Metal (2)"
+      },
+      {
+        "index": 71,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 72,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 73,
+        "name": "Metal"
+      },
+      {
+        "index": 74,
+        "name": "Metal"
+      },
+      {
+        "index": 75,
+        "name": "Concrete 04"
+      },
+      {
+        "index": 76,
+        "name": "Glass"
+      },
+      {
+        "index": 77,
+        "name": "Shingle 01"
+      },
+      {
+        "index": 78,
+        "name": "Wood 16 [imported]"
+      },
+      {
+        "index": 79,
+        "name": "Iron 02, Rough"
+      },
+      {
+        "index": 80,
+        "name": "Metal [imported]"
+      },
+      {
+        "index": 81,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 82,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 83,
+        "name": "Metal (5)"
+      },
+      {
+        "index": 84,
+        "name": "Metal"
+      },
+      {
+        "index": 85,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 86,
+        "name": "Metal (1)"
+      },
+      {
+        "index": 87,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 88,
+        "name": "Metal (1)"
+      },
+      {
+        "index": 89,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 90,
+        "name": "Metal (5)"
+      },
+      {
+        "index": 91,
+        "name": "Metal"
+      },
+      {
+        "index": 92,
+        "name": "Metal (2)"
+      },
+      {
+        "index": 93,
+        "name": "Metal (2)"
+      },
+      {
+        "index": 94,
+        "name": "Metal (2)"
+      },
+      {
+        "index": 95,
+        "name": "Metal (2)"
+      },
+      {
+        "index": 96,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 97,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 98,
+        "name": "Metal (3)"
+      },
+      {
+        "index": 99,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 100,
+        "name": "Frosted Glass 17, Dotted"
+      },
+      {
+        "index": 101,
+        "name": "Glass"
+      },
+      {
+        "index": 102,
+        "name": "Glass"
+      },
+      {
+        "index": 103,
+        "name": "Glass"
+      },
+      {
+        "index": 104,
+        "name": "Glass"
+      },
+      {
+        "index": 105,
+        "name": "Glass"
+      },
+      {
+        "index": 106,
+        "name": "Glass"
+      },
+      {
+        "index": 107,
+        "name": "Glass"
+      },
+      {
+        "index": 108,
+        "name": "Glass"
+      },
+      {
+        "index": 109,
+        "name": "Glass"
+      },
+      {
+        "index": 110,
+        "name": "Glass"
+      },
+      {
+        "index": 111,
+        "name": "Glass"
+      },
+      {
+        "index": 112,
+        "name": "Glass"
+      },
+      {
+        "index": 113,
+        "name": "Glass"
+      },
+      {
+        "index": 114,
+        "name": "Glass"
+      },
+      {
+        "index": 115,
+        "name": "Glass"
+      },
+      {
+        "index": 116,
+        "name": "Glass"
+      },
+      {
+        "index": 117,
+        "name": "Glass"
+      },
+      {
+        "index": 118,
+        "name": "Glass"
+      },
+      {
+        "index": 119,
+        "name": "Glass"
+      },
+      {
+        "index": 120,
+        "name": "Glass"
+      },
+      {
+        "index": 121,
+        "name": "Glass"
+      },
+      {
+        "index": 122,
+        "name": "Glass"
+      },
+      {
+        "index": 123,
+        "name": "Glass"
+      },
+      {
+        "index": 124,
+        "name": "Glass"
+      },
+      {
+        "index": 125,
+        "name": "Glass"
+      },
+      {
+        "index": 126,
+        "name": "Glass"
+      },
+      {
+        "index": 127,
+        "name": "Glass"
+      },
+      {
+        "index": 128,
+        "name": "Glass"
+      },
+      {
+        "index": 129,
+        "name": "Glass"
+      },
+      {
+        "index": 130,
+        "name": "Glass"
+      },
+      {
+        "index": 131,
+        "name": "Glass"
+      },
+      {
+        "index": 132,
+        "name": "Glass"
+      },
+      {
+        "index": 133,
+        "name": "Glass"
+      },
+      {
+        "index": 134,
+        "name": "Glass"
+      },
+      {
+        "index": 135,
+        "name": "Glass"
+      },
+      {
+        "index": 136,
+        "name": "Glass"
+      },
+      {
+        "index": 137,
+        "name": "Glass"
+      },
+      {
+        "index": 138,
+        "name": "Glass"
+      },
+      {
+        "index": 139,
+        "name": "Glass"
+      },
+      {
+        "index": 140,
+        "name": "Glass"
+      },
+      {
+        "index": 141,
+        "name": "Glass"
+      },
+      {
+        "index": 142,
+        "name": "Glass"
+      },
+      {
+        "index": 143,
+        "name": "Glass"
+      },
+      {
+        "index": 144,
+        "name": "Glass"
+      },
+      {
+        "index": 145,
+        "name": "Glass"
+      },
+      {
+        "index": 146,
+        "name": "Glass"
+      },
+      {
+        "index": 147,
+        "name": "Glass"
+      },
+      {
+        "index": 148,
+        "name": "Glass"
+      },
+      {
+        "index": 149,
+        "name": "Glass"
+      },
+      {
+        "index": 150,
+        "name": "Glass"
+      },
+      {
+        "index": 151,
+        "name": "Glass"
+      },
+      {
+        "index": 152,
+        "name": "Glass"
+      },
+      {
+        "index": 153,
+        "name": "Glass"
+      },
+      {
+        "index": 154,
+        "name": "Glass"
+      },
+      {
+        "index": 155,
+        "name": "Glass"
+      },
+      {
+        "index": 156,
+        "name": "Glass"
+      },
+      {
+        "index": 157,
+        "name": "Glass"
+      },
+      {
+        "index": 158,
+        "name": "Glass"
+      },
+      {
+        "index": 159,
+        "name": "Glass"
+      },
+      {
+        "index": 160,
+        "name": "Glass"
+      },
+      {
+        "index": 161,
+        "name": "Glass"
+      },
+      {
+        "index": 162,
+        "name": "Glass"
+      },
+      {
+        "index": 163,
+        "name": "Glass"
+      },
+      {
+        "index": 164,
+        "name": "Glass"
+      },
+      {
+        "index": 165,
+        "name": "Glass"
+      },
+      {
+        "index": 166,
+        "name": "Glass"
+      },
+      {
+        "index": 167,
+        "name": "Glass"
+      },
+      {
+        "index": 168,
+        "name": "Glass"
+      },
+      {
+        "index": 169,
+        "name": "Glass"
+      },
+      {
+        "index": 170,
+        "name": "Glass"
+      },
+      {
+        "index": 171,
+        "name": "Glass"
+      },
+      {
+        "index": 172,
+        "name": "Glass"
+      },
+      {
+        "index": 173,
+        "name": "Glass"
+      },
+      {
+        "index": 174,
+        "name": "Glass"
+      },
+      {
+        "index": 175,
+        "name": "Glass"
+      }
+    ]
+  },
+  "objects": [
+    {
+      "id": "8dee9f54-5c2b-4c51-a50f-86c1b6dd4ec6",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -16.3505701568183,
+            -24.670707428549218,
+            0.00019683783841718128
+          ],
+          "max": [
+            4.511129140384554,
+            9.700049917528949,
+            21.01444587932797
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 89,
+          "faces": 174
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "7c760069-f6a5-466f-b3e1-273705ff1de2",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -147.68590138653133,
+            -145.30120872137115,
+            -7.272933611437927e-07
+          ],
+          "max": [
+            122.44564341747855,
+            149.83418419605167,
+            418.60407731664463
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 119,
+          "faces": 199
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "19189aed-f4af-437d-8169-46467c75f11c",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -157.67448530422422,
+            -172.05009310264288,
+            -2.4892843691849e-06
+          ],
+          "max": [
+            164.6350124689538,
+            164.1979179983064,
+            441.1692882147361
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 102,
+          "faces": 185
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "0ecd0aea-9417-402f-80f2-4d94a03cae55",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -36.20217165609044,
+            -98.16777049087165,
+            -0.03411354612573747
+          ],
+          "max": [
+            36.20217165609044,
+            78.68269766409567,
+            55.513320945379306
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 204,
+          "faces": 388
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "f14d3e69-e30f-46f0-a484-b59ac45df826",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -31.208867632497952,
+            -75.48560777048426,
+            -2.248070723428501
+          ],
+          "max": [
+            31.20885824593972,
+            75.88252307861809,
+            51.56135465216449
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 219,
+          "faces": 418
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "d405b12c-6dba-4ae2-8431-bf38bea59b21",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -32.87397735700833,
+            -72.90078899053138,
+            0.1401574842221155
+          ],
+          "max": [
+            32.87397735700833,
+            73.24783351477676,
+            55.701652849753074
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 235,
+          "faces": 450
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "1a46aa40-252a-439a-a4fb-713194669261",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -35.41993109260019,
+            -88.9619598238487,
+            0.04748569519119704
+          ],
+          "max": [
+            35.41993109260019,
+            90.01461539681503,
+            54.586670530123975
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 176,
+          "faces": 332
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "a87bba07-8f02-412d-a5a0-420c30112e38",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -36.92757191620474,
+            -90.69336680915413,
+            0.0
+          ],
+          "max": [
+            36.92754375653004,
+            91.29138443413682,
+            56.65461848101278
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 338,
+          "faces": 656
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "fa34d54a-64f2-45a9-872b-2a268faf8113",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -35.82216623261219,
+            -78.93199057090939,
+            0.03519548904370722
+          ],
+          "max": [
+            36.027471380909596,
+            102.33210766409326,
+            63.05687540159451
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 204,
+          "faces": 388
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "ec1607ab-7a64-458c-a019-354d3bb21505",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -33.891771252699726,
+            -81.09157479654147,
+            -0.045629920379266026
+          ],
+          "max": [
+            33.891771252699726,
+            79.68173252315972,
+            57.62023719276969
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 134,
+          "faces": 256
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "4ca46208-8e3f-4f9e-b476-bfbca5bb2b75",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -28.527261703971803,
+            -65.92817663207768,
+            -0.07322859697366559
+          ],
+          "max": [
+            28.60982352354395,
+            69.16944905528872,
+            67.89306486685444
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 248,
+          "faces": 470
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "0c51cde9-93f7-404d-8d30-c8a4f97d63c2",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -48.792376292972115,
+            -220.791486304576,
+            -1.1407102890840666
+          ],
+          "max": [
+            48.792376292972115,
+            245.30677344855363,
+            116.61565209936909
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 266,
+          "faces": 512
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "7abdafa6-a879-4f34-8c63-ad9180f8739b",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -49.37831341750979,
+            -171.6850873992199,
+            0.0
+          ],
+          "max": [
+            49.30319279197633,
+            196.11251635814276,
+            145.37512786745086
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 192,
+          "faces": 286
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "52159b52-c4af-4984-a8ac-8efb2de9935b",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -45.176462864312604,
+            -92.53760022441233,
+            -1.0437715622618442
+          ],
+          "max": [
+            45.17918027292087,
+            115.8915166779766,
+            139.12189663864496
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 218,
+          "faces": 430
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "9f3bd7e2-1b0a-4e0c-995b-657a3ab64931",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -36.27167442652184,
+            -91.10123153746598,
+            0.04864038851874785
+          ],
+          "max": [
+            36.27167442652184,
+            92.17921204454318,
+            55.89932437956803
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 176,
+          "faces": 332
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "fcbad6bc-92f7-40a6-acf9-acf64d55b5f3",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -36.86207720613855,
+            -127.36265114911899,
+            -0.8452898551394621
+          ],
+          "max": [
+            36.71994828802394,
+            140.47997204337534,
+            93.44448254803035
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 214,
+          "faces": 408
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "2696cf3d-9151-4c5e-aaa6-734fe8cf070d",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -33.891771252699726,
+            -81.09157479654147,
+            -0.045629920379266026
+          ],
+          "max": [
+            33.891771252699726,
+            79.68173252315972,
+            57.62023719276969
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 134,
+          "faces": 256
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "b470abec-7fc7-41f2-a955-15744399ecde",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -33.891771252699726,
+            -81.09157479654147,
+            -0.045629920379266026
+          ],
+          "max": [
+            33.891771252699726,
+            79.68173252315972,
+            57.62023719276969
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 134,
+          "faces": 256
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "6c261756-7089-4d91-834d-b93b281ba074",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -36.27167442652184,
+            -91.10123153746598,
+            0.04864038851874785
+          ],
+          "max": [
+            36.27167442652184,
+            92.17921204454318,
+            55.89932437956803
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 176,
+          "faces": 332
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "db168ffb-31c1-457c-b991-cf33df1eddef",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -34.794959965653305,
+            -75.9605910834365,
+            -0.2934252036603417
+          ],
+          "max": [
+            34.794959965653305,
+            77.46200861893301,
+            58.71610378655862
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 204,
+          "faces": 388
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "b4c9d861-c27d-463f-b9c5-adeec5917278",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -40.60323782793181,
+            -117.16731889980046,
+            -0.42145272467549394
+          ],
+          "max": [
+            40.583122433639886,
+            112.35669841916543,
+            78.44642391355019
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 230,
+          "faces": 440
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "efe27b99-a814-4b5b-a54a-43ec0bdef981",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -34.794959965653305,
+            -75.9605910834365,
+            -0.2934252036603417
+          ],
+          "max": [
+            34.794959965653305,
+            77.46200861893301,
+            58.71610378655862
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 204,
+          "faces": 388
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "4eb25b18-414e-4cf3-a896-ca8ed91a5345",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -37.1169175688676,
+            -92.6756389497772,
+            -0.5317002344201869
+          ],
+          "max": [
+            37.300295717134254,
+            88.66662115562619,
+            62.53078697234627
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 159,
+          "faces": 298
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "3f2ada8e-cf54-4dbd-94e6-d399770d3092",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "d2bd78ae-7537-42ae-9bf0-c877f6b89f4c",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "184bc509-5343-40a6-83b8-7abce33dcb82",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -32.547334517080955,
+            -32.41627000448272,
+            0.08972585347928401
+          ],
+          "max": [
+            32.28520314524493,
+            32.41627000448272,
+            66.9762750310222
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 41,
+          "faces": 78
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "e131185c-46d2-49f0-966c-c6dd45048cbb",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "9742c481-e082-41c7-9a7c-9b2bc1383d90",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "8b2bcaf0-fde8-4d6b-812c-6b10f2a0defd",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "48043957-41d6-4915-9a5e-80b4ba745b4b",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "4c4cd086-0181-4935-8616-2878d7529324",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "6c9cecfa-09ca-42ff-bb98-5077f5bd57ac",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "d89cda0c-0e90-476a-8b83-2909574f7646",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -44.004607388353726,
+            -41.72287588044414,
+            0.0
+          ],
+          "max": [
+            49.181416278749005,
+            49.66346297677108,
+            49.39901547169122
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 43,
+          "faces": 82
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "396ea1b4-e45d-44fa-8a13-20f3f5e80f15",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Mesh",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": true
+        },
+        "bbox": {
+          "min": [
+            -156.34078679122325,
+            -151.49645917997586,
+            -7.480094863719895e-06
+          ],
+          "max": [
+            163.7926815062996,
+            174.67716547447867,
+            376.9839654757282
+          ]
+        },
+        "mesh_details": {
+          "subtype": "Mesh",
+          "vertices": 121,
+          "faces": 202
+        },
+        "detail_keys": [
+          "mesh_details"
+        ]
+      }
+    },
+    {
+      "id": "089e35bd-e49f-40ed-a310-51d64a551c1a",
+      "object_name": "(not named)",
+      "layer_name": "open webb steel joist",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            1.1068956072504363,
+            -6.054021595644002,
+            -0.24051496359479074
+          ],
+          "max": [
+            1.5253582623011255,
+            -4.873240871990788,
+            2.267599182643714
+          ]
+        },
+        "brep_details": {
+          "subtype": "closed solid polysurface",
+          "faces": 6,
+          "edges": 12,
+          "vertices": 8
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "243d2fdd-a13f-4d89-b362-148664034f03",
+      "object_name": "(not named)",
+      "layer_name": "open webb steel joist",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            0.27329120277710217,
+            -5.081646370236058,
+            -0.24051496359478364
+          ],
+          "max": [
+            1.0667903459301158,
+            -2.592957981008311,
+            0.9452929941769881
+          ]
+        },
+        "brep_details": {
+          "subtype": "closed solid polysurface",
+          "faces": 6,
+          "edges": 12,
+          "vertices": 8
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "eda39546-9d2f-4d3d-b61c-2540866c3261",
+      "object_name": "(not named)",
+      "layer_name": "open webb steel joist",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            2.066938078012754,
+            -9.402092592682806,
+            1.0813449271589022
+          ],
+          "max": [
+            2.485400733063301,
+            -8.221311869029819,
+            3.589459073397279
+          ]
+        },
+        "brep_details": {
+          "subtype": "closed solid polysurface",
+          "faces": 6,
+          "edges": 12,
+          "vertices": 8
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "8339d8cd-8d83-4536-8953-43a4b19d498f",
+      "object_name": "(not named)",
+      "layer_name": "open webb steel joist",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            1.233333673539562,
+            -8.429717367274947,
+            1.0813449271589661
+          ],
+          "max": [
+            2.026832816692462,
+            -5.94102897804737,
+            2.2671528849305957
+          ]
+        },
+        "brep_details": {
+          "subtype": "closed solid polysurface",
+          "faces": 6,
+          "edges": 12,
+          "vertices": 8
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "ee65aa1e-5655-460f-9a40-b05c4aa0d2eb",
+      "object_name": "(not named)",
+      "layer_name": "open webb steel joist",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            3.0269805487750148,
+            -12.750163589721637,
+            2.4032048179124743
+          ],
+          "max": [
+            3.445443203825647,
+            -11.569382866068537,
+            4.911318964150871
+          ]
+        },
+        "brep_details": {
+          "subtype": "closed solid polysurface",
+          "faces": 6,
+          "edges": 12,
+          "vertices": 8
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "5d2cdf55-ab77-4886-aa89-e8702ff9ecb7",
+      "object_name": "(not named)",
+      "layer_name": "open webb steel joist",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            2.193376144301851,
+            -11.777788364313878,
+            2.4032048179125383
+          ],
+          "max": [
+            2.986875287454694,
+            -9.289099975086145,
+            3.589012775684239
+          ]
+        },
+        "brep_details": {
+          "subtype": "closed solid polysurface",
+          "faces": 6,
+          "edges": 12,
+          "vertices": 8
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "4f819ca2-a28c-4177-96b3-8d0eb60c5b18",
+      "object_name": "(not named)",
+      "layer_name": "open webb steel joist",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            3.987023019537446,
+            -16.098234586760583,
+            3.7250647086662028
+          ],
+          "max": [
+            4.405485674587936,
+            -14.917453863107653,
+            6.23317885490453
+          ]
+        },
+        "brep_details": {
+          "subtype": "closed solid polysurface",
+          "faces": 6,
+          "edges": 12,
+          "vertices": 8
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "f3e71cb4-591b-490c-b6db-6aa97a3dbe7e",
+      "object_name": "(not named)",
+      "layer_name": "treeline",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "PolyCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            4905.6256847065615,
+            4024.3308078053187,
+            369.54425437486725
+          ],
+          "max": [
+            5876.360878144924,
+            5086.379851418223,
+            431.03769175120624
+          ]
+        },
+        "curve_details": {
+          "subtype": "Open polycurve",
+          "segment_count": 23,
+          "segments": [
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 235,
+              "knot_count": 237
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 7,
+              "knot_count": 9
+            },
+            {
+              "subtype": "NurbsCurve",
+              "degree": 3,
+              "rational": false,
+              "point_count": 223,
+              "knot_count": 225
+            }
+          ]
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    }
+  ]
+}
+   
